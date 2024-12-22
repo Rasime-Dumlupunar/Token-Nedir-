@@ -2,8 +2,6 @@
 
 Dijital dünya ve güvenlik protokolleri hızla evrimleşirken, yazılım geliştirme süreçlerinde **token** kavramı vazgeçilmez bir yapı taşı haline geldi. Özellikle kimlik doğrulama, yetkilendirme ve güvenli veri iletişimi alanlarında, token’lar yazılımcılar için kritik bir öneme sahip.
 
-Bu yazıda, **token nedir**, çeşitleri nelerdir ve yazılım geliştirme süreçlerinde hangi alanlarda kullanılır gibi temel konulara değineceğiz.
-
 ---
 
 ## 🎯 Token Nedir?
